@@ -1,5 +1,5 @@
 import 'citizenProfile.dart';
-import 'citizenSOS.dart';
+import '../lib/citizenSOS.dart';
 import 'package:flutter/material.dart';
 
 class CitizenMenu extends StatefulWidget {
